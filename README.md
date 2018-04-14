@@ -1,24 +1,29 @@
-# README
+# Authentication Practice
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### _A simple project to practice authentication, 11.24.2017_
 
-Things you may want to cover:
+#### By _Margaret Berry_
 
-* Ruby version
+## Description
+_This app was created with Ruby 2.4.1._
 
-* System dependencies
+## Project Goals
+* _Set up user authentication with bcrypt._
 
-* Configuration
+## Bugs
+_This was a practice project and does not currently run in the browser._
 
-* Database creation
+## Technologies Used
+* _Ruby-on-Rails_
+* _ActiveRecord_
 
-* Database initialization
+## Support and contact details
 
-* How to run the test suite
+_If you have any updates, questions, or suggestions please contact [Margaret] or make a contribution._
 
-* Services (job queues, cache servers, search engines, etc.)
+[Margaret]: mailto:codeberry1@gmail.com
 
-* Deployment instructions
+### License
+This software is licensed under the MIT License.
 
-* ...
+Copyright (c) 2017 Margaret Berry
